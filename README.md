@@ -5,7 +5,7 @@ This package is a fork of the now-abandoned original by [Yoann Celton](https://g
 ---
 
 [![Software License][ico-license]](LICENSE.md)
-[![Software Version][ico-version]](https://packagist.org/packages/meet-kinksters/php-matrix-sdk)
+[![Software Version][ico-version]](https://packagist.org/packages/gestixi/php-matrix-sdk)
 ![Software License][ico-downloads]
 
 This is a Matrix client-server SDK for php 7.4+, initially copied from
@@ -19,7 +19,7 @@ This package is still a work in progress, and at the current time, not everythin
 ## Installation
 
 ```
-composer require meet-kinksters/php-matrix-sdk
+composer require gestixi/php-matrix-sdk
 ```
 
 ## Usage
@@ -74,13 +74,13 @@ instead of using the issue tracker.
 
 - [Brad Jones](https://github.com/bradjones1) at [Meet Kinksters](https://tech.kinksters.dating)
 - [Yoann Celton](https://github.com/Aryess) (initial port)
-- [All Contributors](https://github.com/meet-kinksters/php-matrix-sdk/graphs/contributors)
+- [All Contributors](https://github.com/gestixi/php-matrix-sdk/graphs/contributors)
 
 ## License
 
 [MIT License](LICENSE.md).
 
-[ico-version]: https://img.shields.io/packagist/v/meet-kinksters/php-matrix-sdk.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/gestixi/php-matrix-sdk.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/meet-kinksters/php-matrix-sdk.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/gestixi/php-matrix-sdk.svg?style=flat-square
 [python-pck]: https://github.com/matrix-org/matrix-python-sdk

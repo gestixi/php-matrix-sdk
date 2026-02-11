@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/meet-kinksters/php-matrix-sdk).
+We accept contributions via Pull Requests on [Github](https://github.com/gestixi/php-matrix-sdk).
 
 ## Pull Requests
 
